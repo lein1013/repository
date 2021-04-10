@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
+  "name": "Home Assistant Community Add-ons (lein1013 fork)",
   "url": "https://addons.community",
-  "maintainer": "Franck Nijhof <frenck@addons.community>"
+  "maintainer": "lein1013 <lein1013@gmx.at>"
 }
